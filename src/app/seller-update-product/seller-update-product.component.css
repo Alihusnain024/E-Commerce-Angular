@@ -1,0 +1,35 @@
+.update-product{
+    text-align: center;
+}
+h1{
+    color: blueviolet;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+.add-product{
+    text-align: center;
+}
+.common-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+  }
+  .form-input {
+    height: 35px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    padding-left: 15px;
+    color: black;
+    border-radius: 10px;
+  }
+  .form-button {
+    height: 35px;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+  }

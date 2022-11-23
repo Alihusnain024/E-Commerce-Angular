@@ -1,0 +1,195 @@
+{
+  "seller": [
+    {
+      "name": "alihusnain",
+      "email": "alihusnain@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "alihusnain",
+      "email": "alihusnain@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "hj",
+      "password": "jjn",
+      "email": "jj",
+      "id": 3
+    },
+    {
+      "name": "ali",
+      "password": "12345",
+      "email": "iqbalfarhad90@outlook.com",
+      "id": 4
+    },
+    {
+      "name": "ali",
+      "password": "111",
+      "email": "aaa",
+      "id": 5
+    },
+    {
+      "name": "sarab",
+      "password": "12345aaaaa",
+      "email": "iqbalfarhad90@outlook.com",
+      "id": 6
+    },
+    {
+      "name": "ali",
+      "password": "123",
+      "email": "alidjjdjd",
+      "id": 7
+    },
+    {
+      "name": "j",
+      "password": "111",
+      "email": "xxxx",
+      "id": 8
+    },
+    {
+      "name": "j",
+      "password": "111",
+      "email": "xxxx",
+      "id": 9
+    },
+    {
+      "name": "j",
+      "password": "111",
+      "email": "xxxx",
+      "id": 10
+    },
+    {
+      "name": "j",
+      "password": "111",
+      "email": "xxxx",
+      "id": 11
+    },
+    {
+      "name": "j",
+      "password": "111",
+      "email": "xxxx",
+      "id": 12
+    },
+    {
+      "name": "j",
+      "password": "111",
+      "email": "xxxx",
+      "id": 13
+    },
+    {
+      "name": "j",
+      "password": "111",
+      "email": "xxxx",
+      "id": 14
+    },
+    {
+      "name": "aaaa",
+      "password": "1111",
+      "email": "ssss",
+      "id": 15
+    },
+    {
+      "name": "aaaa",
+      "password": "1111",
+      "email": "ssss",
+      "id": 16
+    },
+    {
+      "name": "aaaa",
+      "password": "1111",
+      "email": "ssss",
+      "id": 17
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 18
+    },
+    {
+      "name": "j",
+      "password": "1s",
+      "email": "s",
+      "id": 19
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 20
+    },
+    {
+      "name": "ali",
+      "password": "123",
+      "email": "123",
+      "id": 21
+    },
+    {
+      "name": "test",
+      "password": "123",
+      "email": "test",
+      "id": 22
+    },
+    {
+      "name": "sarab",
+      "password": "12345",
+      "email": "sarab@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 24
+    },
+    {
+      "name": "j",
+      "password": "111",
+      "email": "ssss",
+      "id": 25
+    },
+    {
+      "name": "j",
+      "password": "111",
+      "email": "ssss",
+      "id": 26
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 27
+    },
+    {
+      "name": "sarab",
+      "password": "12345",
+      "email": "sarab@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "sarab",
+      "password": "12345",
+      "email": "sarab@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "ali",
+      "password": "111aaaa",
+      "email": "ssss",
+      "id": 30
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung",
+      "price": "13000",
+      "category": "mobile",
+      "color": "black",
+      "description": "good",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIAKB9Kmhr5SKKZkzI_i2N2fY7souhC65vzg&usqp=CAU",
+      "id": 1
+    }
+  ]
+}
