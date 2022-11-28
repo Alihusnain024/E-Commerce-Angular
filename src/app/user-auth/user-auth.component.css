@@ -1,0 +1,53 @@
+.user-auth h1{
+    margin-top: 50px;
+    margin-bottom: 80px;
+    color: blueviolet;  
+    text-align: center; 
+}
+
+.user-auth {
+    margin-bottom: 100px;
+}
+.user-auth a{
+    color: blueviolet;
+    cursor: pointer;
+}
+.sign-up, .login{
+    text-align: center;
+}
+.sign-up h1, .login h1{
+    margin-top: 50px;
+    margin-bottom: 80px;
+    color: black;   
+}
+.auth-toggle-link{
+    color: black;
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.common-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+  }
+  .form-input {
+    height: 35px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    padding-left: 15px;
+    color: black;
+    border-radius: 10px;
+  }
+  .form-button {
+    height: 35px;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+.error{
+  color: red;
+}

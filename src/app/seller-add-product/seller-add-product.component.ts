@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { Product } from '../data-type';
 import { ProductService } from '../services/product.service';
 
@@ -10,7 +11,7 @@ import { ProductService } from '../services/product.service';
 export class SellerAddProductComponent implements OnInit {
   addProductMessage:string|undefined;
 
-  constructor(private product:ProductService) { }
+  constructor(private product:ProductService,private router:Router) { }
 
   ngOnInit(): void {
   }
@@ -19,6 +20,7 @@ export class SellerAddProductComponent implements OnInit {
       console.warn(res);
       if(res){
         this.addProductMessage='Products added successfully';
+        this.router.navigate(['seller-home']);
 
       }
       setTimeout(() => {
